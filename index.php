@@ -10,4 +10,9 @@ function maset()
 
 }
 
+function dmake()
+{
+	
+}
+
 ?>
